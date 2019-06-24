@@ -1,0 +1,42 @@
+.sect{
+    background-color: whitesmoke;
+    padding: 50px;
+}
+
+.clear{
+    clear: both;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.amg{
+    margin-left: 20px;
+}
+
+.s{
+    padding: 0px 5px;
+    margin-top: 30px; 
+    border-radius: 10px;
+}
+
+.h3{
+    font-size: 16px;
+}
+
+.par{
+    font-size: 12px;
+}
+
+.a{
+    font-size: 12px;
+}
+
+.hero{
+    margin-top: 40px;
+}
+
+.p{
+    font-size: 12px;
+}
